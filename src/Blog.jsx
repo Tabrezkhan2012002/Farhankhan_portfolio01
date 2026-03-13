@@ -3,7 +3,7 @@ import { Fragment } from "react"
 function Blog() {
     return (
         <Fragment>
-            <div className="bg-white py-24 sm:py-32 animate-[spin_2s_1]">
+            <div className="bg-white py-24 sm:py-32">
                 <div className="mx-auto max-w-7xl px-6 lg:px-8">
 
                     <div className="mx-auto max-w-2xl lg:mx-0">
