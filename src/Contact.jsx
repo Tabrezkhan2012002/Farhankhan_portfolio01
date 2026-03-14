@@ -6,7 +6,7 @@ function Contact() {
       <div className="isolate bg-white py-16 flex justify-center relative"
       data-aos="zoom-in-left">
 
-        {/* Background Gradient */}
+       
         <div
           aria-hidden="true"
           className="absolute inset-x-0 -top-40 -z-10 transform-gpu overflow-hidden blur-3xl"
@@ -20,10 +20,10 @@ function Contact() {
           ></div>
         </div>
 
-        {/* Container */}
+   
         <div className="w-full max-w-md">
 
-          {/* Title */}
+      
           <div className="text-center mb-8">
             <h2 className="text-3xl font-semibold text-gray-900">
               Contact Me
@@ -34,7 +34,7 @@ function Contact() {
             </p>
           </div>
 
-          {/* Form */}
+         
           <form className="space-y-4">
 
             <div className="grid grid-cols-2 gap-3">
