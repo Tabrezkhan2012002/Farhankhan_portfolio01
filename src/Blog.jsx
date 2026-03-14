@@ -20,7 +20,7 @@ function Blog() {
                         <div data-aos="fade-up" data-aos-duration="2000">
                             <div className="group relative w-full max-w-sm rounded-2xl shadow-xl p-4 animate-float transition-transform duration-500 hover:scale-110">
                                 <img
-                                    src="public/img/spikee-png-scaled.png"
+                                    src="/img/spikee-png-scaled.png"
                                     alt=""
                                     className="w-full h-40 object-contain"
                                 />
@@ -34,7 +34,7 @@ function Blog() {
                             <div data-aos="fade-up" data-aos-duration="2000">
                                 <div className="group relative w-full max-w-sm rounded-2xl shadow-xl p-4 animate-float transition-transform duration-500 hover:scale-110">
                                     <img
-                                        src="public/img/images.jpg"
+                                        src="/img/images.jpg"
                                         alt=""
                                         className="w-full h-40 object-contain"
                                     />
@@ -48,7 +48,7 @@ function Blog() {
                         <div data-aos="fade-up" data-aos-duration="2000">
                             <div className="group relative w-full max-w-sm rounded-2xl shadow-xl p-4 animate-float transition-transform duration-500 hover:scale-110">
                                 <img
-                                    src="public/img/72c0b2_555566b6e49a48a09cf53b301fce6769~mv2.avif"
+                                    src="/img/72c0b2_555566b6e49a48a09cf53b301fce6769~mv2.avif"
                                     alt=""
                                     className="w-full h-40 object-contain"
                                 />

@@ -38,7 +38,7 @@ function Navbar() {
 
             <div className="flex items-center gap-4 transition-transform duration-500 hover:scale-110">
               <img
-                src="public/img/profile-pic (3).png"
+                src="/img/profile-pic (3).png"
                 className="h-12 w-12 rounded-full"
                 alt="profile"
               />
@@ -129,7 +129,7 @@ function Navbar() {
                 rel="noopener noreferrer"
               >
                 <img
-                  src="public/img/icons8-linkedin-50.png"
+                  src="/img/icons8-linkedin-50.png"
                   alt="LinkedIn"
                   className="ml-4 transition-transform duration-500 hover:scale-110"
                 />
@@ -147,7 +147,7 @@ function Navbar() {
           >
 
             <img
-              src="img/profile-pic (3).png"
+              src="/img/profile-pic (3).png"
               alt="Farhan"
               className="w-60 sm:w-72 lg:w-80 rounded-2xl shadow-xl transition-transform duration-500 hover:scale-110"
             />
